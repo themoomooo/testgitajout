@@ -1,0 +1,10 @@
+class Ball {
+    constructor(x, y, width, height, color, size){
+        this.x = x;
+        this.y = y;
+        this.width = width;
+        this.height = velY;
+        this.color = color;
+        this.size = size;
+    }
+}
